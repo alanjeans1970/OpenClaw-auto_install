@@ -1,2 +1,5 @@
 # OpenClaw-auto_install
 a bash script to auto install onpeclaw
+
+
+active key:gtyr65tgyhjhyuxeo0zej3iV9KxuoLAtfRv29Qi2cPvt6NwtcRzV9nws9VwtcHwufSvJUSvF9QvtIRi1gcnrokop6QwX==dddasdwdaeaa
